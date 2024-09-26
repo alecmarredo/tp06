@@ -45,3 +45,10 @@ p a {
     color: #ed0808;
     font-weight: 200;
 }
+footer{
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #ffffff;
+    color: black;
+}
